@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi, I'm Plamen Georgiev
+  - 💻 I’ve been coding in C# for about 2 years now.
+  - 📄 I’m currently working on a Wordle project with .Net and React
 
 <!--
 **GeorgievPlamen/GeorgievPlamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
